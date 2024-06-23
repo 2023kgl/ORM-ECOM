@@ -1,0 +1,4 @@
+# ignore/not to upload
+node_modules
+.env
+

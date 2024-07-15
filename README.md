@@ -22,6 +22,8 @@ Clone repo into your computer and run npm install.
 To use, run "node server.js" in the terminal, then open insomnia.
 This should allow you create, read, update, and delete data.
 
+Walkthrough Video: https://drive.google.com/file/d/1-h5aWkPnnqiz4PY3Ul5zOPQbdp8sIt-F/view?usp=sharing
+
 ![alt text](assets/images/ORM-ECOM.png)
 
 ## Credits
